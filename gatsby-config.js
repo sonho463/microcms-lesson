@@ -6,6 +6,7 @@ require('dotenv').config({
 module.exports = {
   siteMetadata: {
     title: "microcms-lesson",
+		description: "This is Desc of this site!",
   },
   plugins: [
 		{
